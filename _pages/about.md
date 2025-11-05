@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- ## **Jiawei Guo ** -->
 
-I am currently a second-year Ph.D. student at the **Institute of Automation, Chinese Academy of Sciences**, and a member of the **State Key Laboratory of Multimodal Artificial Intelligence Systems**, advised by Yu Zhou and expect to graduate in June 2028. Before that, I obtained my **master's** degree from the School of Mechanical Engineering, **Shanghai Jiao Tong University**.
+I am currently a second-year Ph.D. student at the **Institute of Automation, Chinese Academy of Sciences**, and a member of the **State Key Laboratory of Multimodal Artificial Intelligence Systems**, advised by [**Prof. Yu Zhou**](https://people.ucas.ac.cn/~zhouyu) and [**Prof. Chengqing Zong**](https://nlpr.ia.ac.cn/cip/cqzong.htm ) and expect to graduate in June 2028. Before that, I obtained my **master's** degree from the School of Mechanical Engineering, **Shanghai Jiao Tong University**.
 
 My research focuses on multimodal large language model, reasoning. 
 
@@ -25,3 +25,4 @@ My research focuses on multimodal large language model, reasoning.
 
 # Publications
 1. **Jiawei Guo**, Feifei Zhai, Pu Jian, Qianrun Wei, Yu Zhou. ***CROP: Contextual Region-Oriented Visual Token Pruning***. The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**). 2025.
+
